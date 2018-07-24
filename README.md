@@ -8,3 +8,5 @@ A twitter sentiment analysis on SPX Flash Technology Products Vs Carmanah Techno
 • Sentiment Analysis was then performed on the corpus to understand the sentimental influence of the products. Sentiment scores were calculated to classify them as positive, negative and neutral tweets.
 
 • Created a word cloud of top 300 words in the tweets to understand the audience sentiments about the products and the most repetitive words used in the tweets.
+
+• Visualizations were presented using Tableau public dashboard : https://public.tableau.com/views/FlashTechnologyVCarmanahTechnologyTwitterSentimentAnalysisDashboard/CarmanahDashboard?:embed=y&:display_count=yes
